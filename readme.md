@@ -9,11 +9,11 @@
 https://www.facebook.com/Pybott/posts/585972678960414
 ```
 cmd > git clone https://github.com/Puttipong1234/PYBOTT_POST_ADDRESS_GENERATOR.git
-```
+
 cd PYBOTT_POST_ADDRESS_GENERATOR
-```
+
 pip install jinja2
-```
+
 python generate.py
 ```
 
